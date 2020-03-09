@@ -1,0 +1,14 @@
+{
+  "name": "ximply-utils",
+  "version": "1.0.0",
+  "description": "Utilities to improve bussiness management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.8.0"
+  }
+}
